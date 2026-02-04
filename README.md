@@ -1,4 +1,4 @@
-﻿# Valorant Aimbot Bypass - AI Weights
+gh repo clone AimTuxOfficial/AimTux﻿# Valorant Aimbot Bypass - AI Weights
 
 This is my aimbot that I coded for the game Valorant. It has aimbot functionality with human aim.
 # Requirements
